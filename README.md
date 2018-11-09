@@ -7,7 +7,7 @@
 - View items: Checkboxes, radio buttons and EditText.
 
 # Description 
-- 4 Question's quizz about Star Trek
+- 4 Question's quiz about Star Trek
 - It had to contain radio buttons, checkboxes and EditText 
 - Final score is shown with a Toast
 
