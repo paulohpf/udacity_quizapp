@@ -1,0 +1,34 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Star Trek Quiz</string>
+    <string name="question1title">Pergunta 1</string>
+    <string name="question2title">Pergunta 2</string>
+    <string name="question3title">Pergunta 3</string>
+    <string name="question4title">Pergunta 4</string>
+    <string name="question5title">Pergunta 5</string>
+
+    <string name="question1">Quem foi Jean-Luc Picard?</string>
+    <string name="question1captain">Capitão</string>
+    <string name="question1firstofficer">Primeiro Oficial</string>
+    <string name="question1executiveofficer">Comandante</string>
+
+    <string name="question2">Quais personagens não fazem parte de Star Trek?</string>
+    <string name="question2donkeykong">Donkey Kong</string>
+    <string name="question2data">Data</string>
+    <string name="question2mariobros">Mario Bros</string>
+    <string name="question2deannatroi">Deanna Troi</string>
+
+
+    <string name="question3">Qual é o nome do primeiro capitão da enterprise?</string>
+    <string name="question3hint">Digite aqui sua resposta</string>
+
+    <string name="question4">Em Star Trek: Voyager, qual é o quadrante em que a Voyager se perde?</string>
+    <string name="question4alpha">Alpha</string>
+    <string name="question4beta">Beta</string>
+    <string name="question4delta">Delta</string>
+    <string name="question4omega">Omega</string>
+
+    <string name="correctAnwsers">Respostas Corretas: <xliff:g id="value" example="4">%s</xliff:g> </string>
+
+
+
+</resources>
