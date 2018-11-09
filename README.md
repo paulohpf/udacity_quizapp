@@ -1,4 +1,4 @@
-# Android Game Quiz App for Udacity
+# Android Star Trek Quiz App for Udacity
 
 - Project **Quiz App** of Android Basics Nanodegree
 - [Android Basics Nanodegree at Udacity.com](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803).
