@@ -12,7 +12,7 @@
 - Final score is shown with a Toast
 
 # Screenshot
-<img src="https://raw.githubusercontent.com/paulohpf/udacity_quizapp/master/GamesQuiz/Screenshot_1541779235.png" width="300"/>
+<img src="https://raw.githubusercontent.com/paulohpf/udacity_quizapp/master/Screenshot_1541779235.png" width="300"/>
 
 
 ```
