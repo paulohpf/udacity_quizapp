@@ -1,4 +1,4 @@
-# Android Game Quiz App for Udacity
+# Android Star Trek Quiz App for Udacity
 
 - Project **Quiz App** of Android Basics Nanodegree
 - [Android Basics Nanodegree at Udacity.com](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803).
@@ -7,7 +7,7 @@
 - View items: Checkboxes, radio buttons and EditText.
 
 # Description 
-- 4 Question's quizz about Star Trek
+- 4 Question's quiz about Star Trek
 - It had to contain radio buttons, checkboxes and EditText 
 - Final score is shown with a Toast
 
